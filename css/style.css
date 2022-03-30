@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=League+Gothic&family=Mulish:wght@200;400&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display&family=Poppins:ital@0;1&family=Shizuru&family=Smooch+Sans&display=swap');
+
+body{
+    font-family: 'Nunito', sans-serif;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all-header-section{
+    margin: auto;
+    width: 1152px;
+}
+
+Header{
+    background-color: #F0C53E; 
+margin-bottom: 200px;
+
+    width: 100%;
+    height: 100vh;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+nav ul li{
+display: inline;
+margin-right: 35px;
+cursor: pointer;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #252641;
+    font-weight: bold;
+ 
+}
+.contack-btn{
+    display: flex;
+    background-color: #B25A59;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.contack-btn p{
+    margin-left: 20px;
+}
+.header-img img{
+    width: ;
+}
+.header-details{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    align-items: center;
+}
+.
+.header-text h2{
+    margin-bottom: 35px;
+}
+.header-paragraph{
+    margin-bottom: 35px;
+}
+.header-btn{
+    background-color:#B25A59;
+    color: white;
+ width: 248px;
+ height: 36px;
+    border-radius: 80px;
+    border: transparent;
+    font-weight: bold;
+    cursor: pointer;
+}
+.header-imgs img{
+width: 90%;
+
+}
+.header-imgs{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.header-title{
+    color: #7F2736;
+    margin-bottom: 40px;
+}
+.header-secound-title{
+    color: #2C2D32;
+    
+}
+.header-third-title{
+    color: #2C2D32;
+    margin-bottom: 40px;
+}
+.watch{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.watch img{
+    width: 35%;
+}
+.header-explore-watch-btn{
+    display: flex;
+    align-items: center;
+}
+
+
+.Promotional-text{
+    text-align: center;
+}
+.promotional-paragraph{
+  color: #2C2D32;
+  margin-bottom: 20px;
+}
+.promotional-title{
+    margin-bottom: 20px;
+    color: #7F2736;
+}
+.promotional-secound-title{
+    color: #2C2D32;
+}
+.container{
+    width: 1152px;
+    margin: auto;
+}
+.Promotional-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    margin-bottom: 90px;
+}
+.promotional-img img{
+    width: 100%; 
+}
+.promotional-text{
+    text-align: center;
+    color: #7F2736;
+    padding: opx 10px;
+}
+
