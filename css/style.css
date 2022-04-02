@@ -45,7 +45,7 @@ nav ul li a{
     justify-content: center;
     align-items: center;
     color: white;
-    padding: 20px 20px;
+    padding: 8px 20px;
     border-radius: 50px;
     cursor: pointer;
 }
@@ -72,7 +72,7 @@ nav ul li a{
     background-color:#B25A59;
     color: white;
  width: 248px;
- height: 36px;
+ height: 45px;
     border-radius: 80px;
     border: transparent;
     font-weight: bold;
@@ -147,3 +147,142 @@ align-items: center;
     padding: opx 10px;
 }
 
+
+
+
+.lattest-tour-text{
+display: flex;
+justify-content: space-between;
+
+}
+.lattest-tour-img img{
+ width: 300px;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+.lattest-tour-paragraph{
+    color: #2C2D32;
+    margin-top: 40px;
+}
+.lattest-btn{
+    margin-top: 30px;
+    text-align: left;
+    left: 0;
+
+}
+
+.learn-more{
+padding: 8px 20px;
+color: #EE5060;
+background-color: transparent;
+border: 1px solid transparent;
+text-align: start;
+
+}
+.lattest-title{
+    color: #7F2736;
+}
+.lattest-title2{
+    color: #2C2D32;
+}
+.lattest-tour-details img{
+width: 30px;
+}
+.lattest-info{
+    display: flex;
+   align-items: center;
+
+}
+.lattest-info h4{
+    position: absolute;
+    margin-left: 10px;
+    align-items: center;
+}
+.lattest-tour{
+    margin-bottom: 60px;
+}
+.our-team-title{
+    color: #7F2736;
+}
+.our-team-title2{
+    color: #2C2D32;
+}
+.our-team-paragraph{
+  margin-top: 20px;
+  color: #2C2D32;
+}
+.our-team-text{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.our-team-grid-box{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+
+.our-team-grid-img img{
+  width: 400px;
+}
+
+.our-team-grid-texted{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+}
+.our-team-img-dashboard{
+    display: flex;
+}
+.our-team-img-dashboard img{
+
+    height:25px;
+    align-items: center;
+margin-top: 20px;
+}
+   .our-team-img-member img{
+       margin-top: 20px;
+    height: 25px;
+    align-items: center;
+   }
+   .our-team-img-member{
+       display: flex;
+   }
+.our-team-img-dashboard{
+    margin-bottom: 30px;
+margin-top: 20px;
+margin-left: 20px;
+}
+span{
+    color: #7F2736;
+
+}
+.our-team-detailsed p{
+    margin-left: 30px;
+    align-items: center;
+
+}
+.our-team-double-paragraph p{
+    line-height: 25px;
+}
+.choose-us-box{
+    text-align: center;
+}
+.choose-us-text p{
+    margin-top: 20px;
+}
+.choose-title{
+    color: #7F2736;
+}
+span{
+    color: #2C2D32;
+}
+.choose-box2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    display: block;
+}
+.choose-us-grid{
+   
+}
